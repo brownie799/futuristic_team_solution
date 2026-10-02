@@ -1,0 +1,14 @@
+{
+  "orders": 30000,
+  "delivered_orders": 24728,
+  "revenue": 232649269.65,
+  "profit": 11365479.870000001,
+  "margin_pct": 4.885242015630802,
+  "aov": 7754.975655,
+  "return_rate_pct": 7.083333333333333,
+  "cancel_rate_pct": 5.13,
+  "return_cost": 24700071.13,
+  "campaign_spend": 125996704.08999999,
+  "campaign_profit": 53680212.05,
+  "delivery_compensation": 497969.51
+}

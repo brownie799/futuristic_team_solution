@@ -1,0 +1,7 @@
+Initiative,Allocation,Expected_ROI,Evidence_or_Assumption,Expected_Incremental_Profit,Expected_Total_Value,ROI_Pct
+Referral growth,350000,1.6784748306290445,Historical weighted campaign ROI,587466.1907201656,937466.1907201656,167.84748306290444
+Email retention campaigns,200000,1.3827439302106979,Historical weighted campaign ROI,276548.7860421396,476548.7860421396,138.27439302106978
+Google Ads efficiency scale,100000,0.5471220096689102,Historical weighted campaign ROI,54712.200966891025,154712.20096689102,54.712200966891025
+West delivery reliability,150000,1.2861196566666666,Scenario: 15% West compensation reduction + 5% late-delivery return-cost reduction,192917.9485,342917.9485,128.61196566666666
+Medium-risk customer reactivation,100000,0.9569343588853121,Scenario: 12% of medium-risk customers generate one incremental delivered order,95693.43588853121,195693.4358885312,95.69343588853121
+Grocery margin repair,100000,1.4667613600000002,Scenario: recover 40% of observed Grocery loss through pricing/assortment controls,146676.13600000003,246676.13600000003,146.676136
